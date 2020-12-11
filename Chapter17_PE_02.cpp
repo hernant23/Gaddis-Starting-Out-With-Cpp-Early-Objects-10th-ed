@@ -1,14 +1,6 @@
 #include <iostream>
 #include <string>
-#include <cctype>
-#include <cstring>
-#include <array>
-#include <map>
-#include <vector>
 #include <unordered_map>
-#include <set>
-#include <unordered_set>
-#include <algorithm>
 #include <functional>
 
 int main() {
